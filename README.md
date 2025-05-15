@@ -13,5 +13,9 @@ This part of the assignment makes it so all the valid information received gets 
 Register_user & login_user:
 Makes it for you to have access through the script.
 
+MAIN:
+takes all the information we learned throughout the year from our notes and ties them into this project. 
+
+
 ![image](https://github.com/user-attachments/assets/7c1eaa58-d21b-4b6f-a2cd-a2a5426f46cf)
 
